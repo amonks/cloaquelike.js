@@ -1,0 +1,9 @@
+/* cloaquelike.css */
+
+object {
+	background-color: green;
+}
+.objectbox * {
+	width: 100%;
+	height: 100%;
+}
