@@ -1,6 +1,14 @@
 # cloaquelike.js
 
-cloaquelike.js provides a function, `cloaquelike(elements)` which takes an array of objects, like
+## vertical scrolling websites
+
+### Demo
+
+Check out a [working demo](http://amonks.github.io/cloaquelike.js/) of the output
+
+### what it do
+
+cloaquelike.js provides a function, `cloaquelike(elements, container)` which takes an array of objects, and appends them to a given container object
 
 	[
 		{
