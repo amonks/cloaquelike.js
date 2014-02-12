@@ -26,3 +26,5 @@ cloaquelike.js provides a function, `cloaquelike(elements, container)` which tak
 	]
 
 The element is an element object, the width is in [960.gs](http://960.gs) syntax, and the height is an integer px height.
+
+The elements can be anything, iframes, objects, images, whatever you like. Just make sure their width and height are set to 100%.
