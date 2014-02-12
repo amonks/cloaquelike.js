@@ -4,7 +4,7 @@
 
 ### Demo
 
-Check out a [working demo](http://amonks.github.io/cloaquelike.js/) of the output
+Check out a [working demo](http://amonks.github.io/cloaquelike.js/) of the output, or a [working demo with fluid grids](http://amonks.github.io/cloaquelike.js/fluid.html)
 
 Be sure to view the source and see how the input happens.
 
