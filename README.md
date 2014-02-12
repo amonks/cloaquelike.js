@@ -6,6 +6,8 @@
 
 Check out a [working demo](http://amonks.github.io/cloaquelike.js/) of the output
 
+Be sure to view the source and see how the input happens.
+
 ### what it do
 
 cloaquelike.js provides a function, `cloaquelike(elements, container)` which takes an array of objects, and appends them to a given container object
